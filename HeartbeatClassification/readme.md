@@ -9,8 +9,8 @@
 | 吉米杜               | 平安NLP算法工程师，Datawhale成员，Coggle开源小组成员         | https://blog.csdn.net/duxiaodong1122?spm=1011.2124.3001.5343&type=blog     |
 | 张晋                 | Datawhale成员，算法竞赛爱好者                            |  https://blog.csdn.net/weixin_44585839/        |
 | 王皓月               | 华东师范大学数据科学与工程学院，Coggle开源小组成员            |      https://github.com/sunshinemingo    |
-| 姚昱君              |                                             |
-| 杨梦迪              |                                              |
+| 姚昱君              |悉尼大学研究生，数据竞赛爱好者                                      |https://june.pb.style/
+| 杨梦迪              |上海大学硕士 Datawhale成员                                              |
 
 ## 基本信息
 
